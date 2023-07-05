@@ -1,0 +1,17 @@
+* {
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+}
+
+.viewport_height {
+	display: flex;
+	height: 75vh;
+	flex-direction: column;
+    justify-content: center;
+}
+
+.margintb_auto {
+	margin-top: auto;
+	margin-bottom: auto;
+}
