@@ -1,5 +1,5 @@
 # ventas
-Sell and Stock software
+Stock software
 
 ![0](https://github.com/Amhernandez5508/ventas/assets/121590490/bb42cfdf-0082-406c-b8be-b38949cc7a27)
 ![1](https://github.com/Amhernandez5508/ventas/assets/121590490/a19a2f69-5e27-4ca7-b99f-1897e02e5da0)
