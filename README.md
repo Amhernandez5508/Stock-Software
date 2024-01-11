@@ -9,4 +9,3 @@ Stock software
 ![5](https://github.com/Amhernandez5508/ventas/assets/121590490/d3130ac4-e301-4208-aa5d-178a699a0ce4)
 ![6](https://github.com/Amhernandez5508/ventas/assets/121590490/d21c27fa-6fa3-4ef5-a170-19e390aed718)
 ![7](https://github.com/Amhernandez5508/ventas/assets/121590490/4aed56d0-f726-4825-b451-fd8ad217d766)
-![8](https://github.com/Amhernandez5508/ventas/assets/121590490/7ace54e5-782a-4753-b0d0-1ee0a3926373)
