@@ -1,0 +1,13 @@
+ar\edu\educacionit\controller\NewProductFormServlet.class
+ar\edu\educacionit\controller\ValidarUsuario.class
+ar\edu\educacionit\controller\CloseSessionServlet.class
+ar\edu\educacionit\dao\imp\ProductoDAOImp.class
+ar\edu\educacionit\model\Usuario.class
+ar\edu\educacionit\dao\ConexionMySQL.class
+ar\edu\educacionit\dao\imp\UsuarioDAOImp.class
+ar\edu\educacionit\model\Producto.class
+ar\edu\educacionit\controller\ProductosServlet.class
+ar\edu\educacionit\dao\GenericDAO.class
+ar\edu\educacionit\controller\LoadNewProducServlet.class
+ar\edu\educacionit\controller\PrincipalServlet.class
+ar\edu\educacionit\dao\IUsuarioDAO.class

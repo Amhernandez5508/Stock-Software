@@ -1,0 +1,13 @@
+P:\Documentos\Programacion\Proyectos\Ventas\src\main\java\ar\edu\educacionit\dao\ConexionMySQL.java
+P:\Documentos\Programacion\Proyectos\Ventas\src\main\java\ar\edu\educacionit\controller\ValidarUsuario.java
+P:\Documentos\Programacion\Proyectos\Ventas\src\main\java\ar\edu\educacionit\controller\LoadNewProducServlet.java
+P:\Documentos\Programacion\Proyectos\Ventas\src\main\java\ar\edu\educacionit\model\Producto.java
+P:\Documentos\Programacion\Proyectos\Ventas\src\main\java\ar\edu\educacionit\dao\imp\UsuarioDAOImp.java
+P:\Documentos\Programacion\Proyectos\Ventas\src\main\java\ar\edu\educacionit\controller\CloseSessionServlet.java
+P:\Documentos\Programacion\Proyectos\Ventas\src\main\java\ar\edu\educacionit\dao\IUsuarioDAO.java
+P:\Documentos\Programacion\Proyectos\Ventas\src\main\java\ar\edu\educacionit\dao\imp\ProductoDAOImp.java
+P:\Documentos\Programacion\Proyectos\Ventas\src\main\java\ar\edu\educacionit\controller\ProductosServlet.java
+P:\Documentos\Programacion\Proyectos\Ventas\src\main\java\ar\edu\educacionit\controller\NewProductFormServlet.java
+P:\Documentos\Programacion\Proyectos\Ventas\src\main\java\ar\edu\educacionit\controller\PrincipalServlet.java
+P:\Documentos\Programacion\Proyectos\Ventas\src\main\java\ar\edu\educacionit\model\Usuario.java
+P:\Documentos\Programacion\Proyectos\Ventas\src\main\java\ar\edu\educacionit\dao\GenericDAO.java
